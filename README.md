@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayxanmirzazade&label=Profile%20views&color=0e75b6&style=flat" alt="ayxanmirzazade" /> </p>
 
-- 🔭 I’m currently working on <i>Software Developer</i>
+- 🔭 I’m currently working on <i>Software Development</i>
 
 - ☺️ Pronouns <i>He/Him</i>
 
