@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <i>Software Developer</i>
 
-- ☺️ Pronouns <i>He/His</i>
+- ☺️ Pronouns <i>He/Him</i>
 
 - 🌱 I’m currently learning <i>Java</i>
 
