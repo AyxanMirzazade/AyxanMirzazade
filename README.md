@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on <i>Software Development</i>
 
-- ☺️ Pronouns <i>He/Him</i>
-
 - 🌱 I’m currently learning <i>Java</i>
 
 - 🤝 I’m looking for help with [CSS-CFF](https://github.com/AyxanMirzazade/Froggy)
